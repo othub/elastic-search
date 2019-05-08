@@ -1,0 +1,277 @@
+Acamprosate
+Alprazolam
+Amphetamines
+Amphetamine salt combo
+Amitriptyline
+Aripiprazole
+Armodafinil
+Asenapine
+Atomoxetine
+Atarax
+Amoxicillin
+Brexpiprazole
+Bupropion
+Buspirone
+Codeine
+Celexa
+Carbamazepine extended release
+Citalopram
+Clomipramine
+Clonazepam
+Clonidine
+Clozapine
+Clorazepate
+Chlordiazepoxide
+Chlorpromazine
+Dexamphetamine
+Desipramine
+Desvenlafaxine
+Desyrel
+Desvenlafaxine
+Dexmethylphenidate
+Dextroamphetamine
+Diazepam
+Disulfiram
+Divalproex sodium
+Doxepin
+Doxycycline
+Duloxetine
+Escitalopram
+Eszopiclone
+Flagyl
+Fluoxetine
+Fluoxetine and olanzapine
+Fluphenazine
+Flurazepam
+Fluvoxamine
+Fluticasone
+Gabapentin
+Guanfacine
+Haloperidol
+Hydroxyzine
+Hydrocortisone
+Iloperidone
+Imipramine
+Isocarboxazid
+Khedezla
+Laxatives
+Lamotrigine
+Lorazepam
+Levomilnacipran
+Levofloxacin
+Levothyroxine
+Lisdexamfetamine
+Lithium
+Lithium carbonate
+Lurasidone
+Lexapro
+Mirena
+Metronidazole
+Methylphenidate
+Methylprednisolone
+Insulin Detemir
+Insulin Glargine
+Thyroid
+Testosterone
+Estradiol
+Estrogens
+Ethinyl Estradiol
+Desogestrel
+Drospirenone
+Levonorgestrel
+Norethindrone
+Norgestimate
+Oxybutynin
+Tamsulosin Hydrochloride
+Finasteride
+Anastrozole
+Phentermine
+Brimonidine Tartrate
+Latanoprost
+Travoprost
+Calcium
+Cholecalciferol
+Alpha-Tocopherol
+Cyanocobalamin
+Ergocalciferol
+Folic Acid
+Magnesium
+Sodium
+Sodium Fluoride
+Ferrous Sulfate
+Mirtazapine
+Mixed salts of a single-entity amphetamine product
+Modafinil
+Naltrexone
+Nefazodone
+Nortriptyline
+Olanzapine
+Oxazepam
+Paracetamol
+Pantoprazole
+Paliperidone
+Paroxetine
+Phenelzine
+Prilosec
+Pimozide
+Pregabalin
+Prochlorperazine
+Penicillin
+Propanolol
+Quetiapine
+Risperidone
+Ritalin
+Selegiline transdermal system
+Sertraline
+Tramadol
+Toradol
+Xanax
+Famotidine
+Ranitidine
+Esomeprazole
+Lansoprazole
+Omeprazole
+Pantoprazole Sodium
+Docusate
+Ondansetron
+Promethazine Hydrochloride
+Mesalamine
+Aspirin
+Diclofenac
+Ibuprofen
+Naproxen
+Meloxicam
+Celecoxib
+Acetaminophen
+Morphine
+Hydrocodone Bitartrate
+Acetaminophen
+Oxycodone
+Tramadol Hydrochloride
+Sumatriptan
+Alendronate Sodium
+Baclofen
+Carisoprodol
+Cyclobenzaprine Hydrochloride
+Methocarbamol
+Tizanidine
+Allopurinol
+Diphenhydramine Hydrochloride
+Cetirizine Hydrochloride
+Levocetirizine Dihydrochloride
+Loratadine
+Beclomethasone
+Budesonide
+Guaifenesin
+Mometasone
+Triamcinolone
+Benzonatate
+Clobetasol Propionate
+Prednisolone
+Prednisone
+Budesonide
+Formoterol
+Fluticasone Propionate
+Salmeterol Xinafoate
+Albuterol
+Albuterol Sulfate
+Ipratropium Bromide
+Ipratropium
+Tiotropium
+Montelukast
+Penicillin V
+Clavulanate Potassium
+Cephalexin
+Azithromycin
+Clindamycin
+Sulfamethoxazole; Trimethoprim
+Ciprofloxacin
+Fluconazole
+Nystatin
+Acyclovir
+Valacyclovir
+Hydroxychloroquine Sulfate
+Meclizine Hydrochloride
+Zolpidem Tartrate
+Trazodone Hydrochloride
+Escitalopram Oxalate
+Fluoxetine Hydrochloride
+Sertraline Hydrochloride
+Venlafaxine Hydrochloride
+Nortriptyline Hydrochloride
+Temazepam
+Buspirone Hydrochloride
+Amphetamine
+Dexmethylphenidate Hydrochloride
+Lisdexamfetamine Dimesylate
+Quetiapine Fumarate
+Divalproex Sodium
+Phenytoin
+Levetiracetam
+Oxcarbazepine
+Topiramate
+Benztropine Mesylate
+Ropinirole Hydrochloride
+Donepezil Hydrochloride
+Memantine Hydrochloride
+Omega-3-acid Ethyl Esters
+Furosemide
+Chlorthalidone
+Hydrochlorothiazide
+Triamterene
+Spironolactone
+Potassium
+Doxazosin Mesylate
+Terazosin
+Propranolol Hydrochloride
+Propranolol Hydrochloride
+Hydrochlorothiazide
+Atenolol
+Chlorthalidone
+Metoprolol
+Carvedilol
+Nebivolol Hydrochloride
+Benazepril Hydrochloride
+Enalapril Maleate
+Lisinopril
+Lisinopril
+Hydrochlorothiazide
+Quinapril
+Ramipril
+Losartan Potassium
+Olmesartan Medoxomil
+Valsartan
+Diltiazem Hydrochloride
+Verapamil Hydrochloride
+Amlodipine Besylate
+Amlodipine Besylate
+Benazepril Hydrochloride
+Nifedipine
+Hydralazine Hydrochloride
+Isosorbide Mononitrate
+Nitroglycerin
+Atorvastatin
+Lovastatin
+Pravastatin Sodium
+Rosuvastatin Calcium
+Simvastatin
+Fenofibrate
+Gemfibrozil
+Ezetimibe
+Simvastatin
+Warfarin
+Dabigatran Etexilate Mesylate
+Rivaroxaban
+Clopidogrel Bisulfate
+Digoxin
+Amiodarone Hydrochloride
+Metformin Hydrochloride
+Sitagliptin Phosphate
+Sitagliptin Phosphate
+Glyburide
+Glimepiride
+Glipizide
+Pioglitazone Hydrochloride
+Liraglutide
+Insulin Aspart
+Insulin Lispro

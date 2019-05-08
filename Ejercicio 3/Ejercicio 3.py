@@ -7,6 +7,7 @@
 # -------------------------------------------------------------------------------
 
 from elasticsearch import Elasticsearch
+import requests
 
 # adding to stopword the ".*presc.*",".*mg.*" ,".*cm.*", ".*[1-1000].*" to avoid size of prescription and drugs
 stopwords = [".*presc.*", ".*mg.*", ".*cm.*", ".*[1-1000].*", "i", "me", "my", "myself", "we", "us", "our",
@@ -32,6 +33,7 @@ stopwords = [".*presc.*", ".*mg.*", ".*cm.*", ".*[1-1000].*", "i", "me", "my", "
              "say", "says", "said", "also", "get", "go", "goes", "just", "made", "make", "put", "see", "seen",
              "whether", "like", "well", "back", "even", "still", "way", "take", "since", "another", "however", "two",
              "three", "four", "five", "first", "second", "new", "old", "high", "long"]
+
 
 def search_drugs_and_medications():
     es = Elasticsearch()
@@ -79,11 +81,10 @@ def search_drugs_and_medications():
             f.write(str(medication["key"]).encode("utf8") + "\n")
     f.close()
 
-
     # _______________________________________________________________#
     # _______________________USING wikidata API_____________________ #
     # ________________________NOT RECOMMENDED _______________________#
-"""
+    """
     f_api = open("ej3_result_using_api.txt", "wb")
     for res in results["aggregations"]["Searching medications"]["buckets"]:
         params = {
@@ -92,11 +93,15 @@ def search_drugs_and_medications():
             'language': 'en',
             'search': str(res["key"])
         }
-        r = requests.get(API_ENDPOINT, params=params)
+        endpoint = "https://www.wikidata.org/w/api.php"
+        r = requests.get(endpoint, params=params)
         try:
             s = r.json()['search'][0]['description']
             if s.find("chemical") != - 1 or s.find("pharmaceut") != - 1 or s.find("compound") != - 1:
-                f_api.write(str(res["key"].replace(u'\u2019', "'")) + "\n")
+                # use this for THE WHOLE collection if you have all the time in the world and have nothing to do
+                # f_api.write(str(res["key"].replace(u'\u2019', "'")) + "\n")
+                # use this for generating almost 72 drugs because of a format error
+                f_api.write(str(res["key"]) + "\n")
 
         except KeyError:
             print()
@@ -104,9 +109,7 @@ def search_drugs_and_medications():
             print()
 
     f_api.close()
-"""
-
-
+    """
 
 def main():
     search_drugs_and_medications()

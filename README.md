@@ -1,2 +1,2 @@
 # elastic-search
-homework to do submit for Repositorios de Información
+Study of mental health using Reddit and Elastic Search for Repositorios de Información.
